@@ -2659,7 +2659,7 @@ fieldset[disabled] .form-control {
     background-color: rgba(245, 245, 245, 0);
 }
 
-.btn-default:hover {
+.btn-default:hover,.btn-default:focus,.btn-default:active {
     color: #ffffff;
        background-color: #3b3d45;
     border-color: #464851;
