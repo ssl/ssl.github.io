@@ -2642,3 +2642,25 @@ fieldset[disabled] .form-control {
     color: #ffffff !important;
     padding: 6px 12px !important;
 }
+
+.dropdown-menu {
+    min-width: 1px;
+    background-color: #3b3d45;
+    border: 1px solid rgb(70, 72, 81);
+}
+
+.dropdown-menu > li > a {
+    color: #858b93;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    color: white;
+    text-decoration: none;
+    background-color: rgba(245, 245, 245, 0);
+}
+
+.btn-default:hover {
+    color: #ffffff;
+       background-color: #3b3d45;
+    border-color: #464851;
+}
