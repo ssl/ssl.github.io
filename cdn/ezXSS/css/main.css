@@ -39,6 +39,10 @@ table {
 	width: 100%; white-space: nowrap;
 }
 
+.dropdown-menu {
+    position: absolute;
+}
+
 #content {
   margin: 0;
   transform: translate(-50%, -50%);
