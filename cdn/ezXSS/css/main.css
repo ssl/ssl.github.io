@@ -22,6 +22,11 @@ body, html {
 	background-color: #f6a821;
 }
 
+body::-webkit-scrollbar
+{
+	width: 0px;
+}
+
 #content {
   margin: 0;
   transform: translate(-50%, -50%);
