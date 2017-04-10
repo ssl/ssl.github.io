@@ -52,6 +52,11 @@ table {
     position: absolute;
 }
 
+dropdown-backdrop {
+  position: ez;
+
+}
+
 #content {
   margin: 0;
   transform: translate(-50%, -50%);
