@@ -31,6 +31,14 @@ textarea {
 	resize:none;
 }
 
+tr {
+	display:table-row;
+}
+
+table {
+	width: 100%; table-layout: fixed; white-space: nowrap;
+}
+
 #content {
   margin: 0;
   transform: translate(-50%, -50%);
