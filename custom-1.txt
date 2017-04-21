@@ -1,1 +1,1 @@
-{"id":"ye","host":"ye","cves":{"CVE-2014-0160":{"status":"zc-logo zc-logo"}},"links":{"self":"ye"}}
+{"id":"ye","host":"ye","cves":{"CVE-2014-0160":{"status":"running zc-logo"},"CVE-2014-6271":{"status":"running zc-logo"},"CVE-2015-0235":{"status":"running zc-logo"},"CVE-2016-0800":{"status":"running zc-logo"}},"links":{"self":"ye"}}
