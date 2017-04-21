@@ -1,1 +1,1 @@
-{"id":"\"><h1>Cool</h1>","host":"\"><h1>Cool</h1>","cves":{"CVE-2014-0160":{"status":"running"},"CVE-2014-6271":{"status":"running"},"CVE-2015-0235":{"status":"\"><h1>Cool</h1>"},"CVE-2016-0800":{"status":"running"}},"links":{"self":"\"><h1>Cool</h1>"}}
+{"id":":-)","host":":-)","cves":{"signup-body":{"status":"zc-logo"}},"links":{"self":":-)"}}
