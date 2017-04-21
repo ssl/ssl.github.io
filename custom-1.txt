@@ -1,1 +1,1 @@
-{"id":":-)","host":":-)","cves":{"signup-body":{"status":"zc-logo"}},"links":{"self":":-)"}}
+{"id":"ye","host":"ye","cves":{"CVE-2014-0160":{"status":"running"},"CVE-2014-6271":{"status":"running"},"CVE-2015-0235":{"status":"running"},"CVE-2016-0800":{"status":"running"},"signup-body":{"status":"zc-logo"}},"links":{"self":"ye"}}
