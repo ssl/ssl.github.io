@@ -17,7 +17,7 @@ $("body").on('click','a', function() {
       // Append this html to the main
       $("body").html(main);
       // Change URL to the href
-      window.history.pushState(href, 'Hi, I\'m Elyesa.', href);
+      window.history.pushState(href, '', href);
       // Change opacity back to 1
       $("section").css("opacity","1");
     });
