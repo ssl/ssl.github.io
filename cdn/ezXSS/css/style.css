@@ -981,7 +981,7 @@ body {
 }
 
 .navigation nav {
-    background-color: #2a2d35;
+    background-color: #222635;
 }
 
 .navigation:before {
@@ -1405,7 +1405,7 @@ sup {
 }
 
 .luna-nav.nav li > a {
-    color: #848c94;
+    color: #6A748E;
 }
 
 .luna-nav.nav li.active a {
