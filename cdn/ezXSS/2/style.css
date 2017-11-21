@@ -2820,3 +2820,25 @@ fieldset[disabled] .form-control {
        background-color: #2b3157;
     border-color: #64698f;
 }
+
+.model-content {
+	background-color: #262d4e;
+	
+}
+
+.model-header {
+	border-color: #262d4e;
+    background-color: #2f3457;padding:15px;border-radius:3px;
+	
+}
+
+.model-body {
+	padding:15px;
+}
+
+.model-footer {
+	border-color: #262d4e;
+    background-color: #2f3457;padding:15px;border-top:0px;border-radius:3px;
+}
+
+
