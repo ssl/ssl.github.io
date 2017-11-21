@@ -36,7 +36,7 @@ table {
 	width: 100%;
 }
 
-.delete, .archive, .share {
+.delete, .archive, .share, .api {
   cursor:pointer;
 }
 
