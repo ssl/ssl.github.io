@@ -1,2 +1,2 @@
 # ssl.github.io
-github cdn host
+private github cdn host
